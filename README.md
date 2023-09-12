@@ -1,16 +1,29 @@
-### ⚡Welcome on my profile!⚡
+# Jacob Falana
 
-<!--
-**FalanaJ/FalanaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 About me
+### I'm 21 years old computer science student. 
 
-Here are some ideas to get you started:
+### I'd describe myself as
+- [x] passionate
+- [x] ambitious
+- [x] quick-learning
+- [x] kind-hearted
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###  In my free time I like
+- [x] play volleyball
+- [x] listen some good music
+- [x] canoeing
+
+
+# ☕My tech stack:
+- Java 17+
+- Spring boot  
+- Maven
+- Gradle
+- Kotlin
+- C++
+- Docker
+- Postman
+- Lombok
+- Hibernate
+- MySQL
