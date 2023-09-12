@@ -15,7 +15,7 @@
 - [x] canoeing
 
 
-# ☕My tech stack:
+# ☕ My tech stack:
 - Java 17+
 - Spring boot  
 - Maven
@@ -28,5 +28,5 @@
 - Lombok
 - Hibernate
 
-# 📬Contact with me:
+# 📬 Contact with me:
 - jakub.falana@op.pl
