@@ -20,10 +20,10 @@
 - Spring boot  
 - Maven
 - Gradle
+- MySQL
 - Kotlin
 - C++
 - Docker
 - Postman
 - Lombok
 - Hibernate
-- MySQL
