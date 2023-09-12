@@ -27,3 +27,6 @@
 - Postman
 - Lombok
 - Hibernate
+
+# 📬Contact with me:
+- jakub.falana@op.pl
