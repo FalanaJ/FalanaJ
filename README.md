@@ -1,7 +1,7 @@
 # Jacob Falana
 
 # 👨‍💻 About me
-### I'm 21 years old computer science student. 
+### I'm 23 years old computer science student. 
 
 ### I'd describe myself as
 - [x] passionate
@@ -11,22 +11,23 @@
 
 ###  In my free time I like
 - [x] play volleyball
-- [x] listen some good music
-- [x] canoeing
-
+- [x] listening to Popular Science Podcasts
+- [x] creating Your Own Apps
 
 # ☕ My tech stack:
 - Java 17+
-- Spring boot  
+- Spring Boot
+- Spring Security
 - Maven
 - Gradle
+- Hibernate
 - MySQL
-- Kotlin
+- PostgreSQL
 - C++
+- C#
 - Docker
 - Postman
 - Lombok
-- Hibernate
 
 # 📬 Contact with me:
 - jakub.falana@op.pl
