@@ -35,7 +35,8 @@ I'm currently working on a **Blockchain Hospital Management System**, which inte
 
 - **Databases**:  
   - MySQL  
-  - PostgreSQL  
+  - PostgreSQL
+  - H2
 
 - **Tools & Technologies**:  
   - Hibernate  
