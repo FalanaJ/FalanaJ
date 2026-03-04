@@ -2,6 +2,8 @@
 
 # ☕ About Me
 ### I'm a 23-year-old IT student.  
+I hold an Engineer’s degree in Computer Science.  
+I am an active member of the CyberHydra Scientific Research Group.
 
 # 🏥 Current Project
 ### **Blockchain Hospital Management System**  
