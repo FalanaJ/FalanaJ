@@ -46,5 +46,6 @@ I'm currently working on a **Blockchain Hospital Management System**, which inte
 
 # 📬 Contact with me:
 - jakub.falana@op.pl
+- jakubfalana5@gmail.com
 
 Feel free to reach out!  
