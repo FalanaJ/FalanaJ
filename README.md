@@ -5,12 +5,16 @@
 I hold an Engineer’s degree in Computer Science.  
 I am an active member of the CyberHydra Scientific Research Group.
 
-# 🏥 Current Project
-### **Blockchain Hospital Management System**  
-I'm currently working on a **Blockchain Hospital Management System**, which integrates:  
-- **Spring Boot** for backend development  
-- **Spring Security** for secure authentication and authorization  
-- **Blockchain technology** to ensure data integrity and security
+# 📆 Current Project
+***Smart Calendar Integration System***
+I'm currently working on a Smart Calendar Integration System, which integrates:
+
+**Spring Boot** for backend development
+**React** for dynamic user interface
+**Apache Kafka** for real-time event streaming
+**Docker** for containerization
+**AWS** for cloud infrastructure and scalability
+Integration with **Notion API** and **Google Calendar API**
 
 ## 🖤 Tech Stack
 
