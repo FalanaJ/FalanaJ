@@ -7,14 +7,15 @@ I am an active member of the CyberHydra Scientific Research Group.
 
 # 📆 Current Project
 ***Smart Calendar Integration System***
+
 I'm currently working on a Smart Calendar Integration System, which integrates:
 
-**Spring Boot** for backend development
-**React** for dynamic user interface
-**Apache Kafka** for real-time event streaming
-**Docker** for containerization
-**AWS** for cloud infrastructure and scalability
-Integration with **Notion API** and **Google Calendar API**
+- **Spring Boot**  for backend development  
+- **React**  for dynamic user interface  
+- **Apache Kafka**  for real-time event streaming  
+- **Docker**  for containerization  
+- **AWS**  for cloud infrastructure and scalability 
+- Integration with  **Notion API**  and  **Google Calendar API**
 
 ## 🖤 Tech Stack
 
